@@ -12,7 +12,9 @@
     var INLINE_DOMAINS = {
         "_default": DEFAULT_REGISTER_URL,
         "g88tong.net": "https://gg8835.com/?id=850584167",
-        "hug8.net": "https://gg8844.com/?id=909695030"
+        "hug8.net": "https://gg8844.com/?id=909695030",
+        "g88tong.com": "https://gg8826.com/?id=916332602",
+        "ggvip1.com": "https://gg8846.com/?id=782516068"
     };
 
     function normalizeHost(h) {
