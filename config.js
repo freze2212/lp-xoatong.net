@@ -6,7 +6,7 @@
 (function () {
     'use strict';
 
-    var DEFAULT_REGISTER_URL = 'https://gg8835.com/?id=850584167';
+    var DEFAULT_REGISTER_URL = '#';
 
     // Fallback nếu không tải được file domains.json (ví dụ chạy offline file://)
     var INLINE_DOMAINS = {
